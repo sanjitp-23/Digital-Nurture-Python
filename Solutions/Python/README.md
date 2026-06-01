@@ -536,7 +536,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 
 # Author
 
-**Aadithya R**
+**Sanjit P**
 
-B.TECH. Artificial Intelligence and Machine Learning 
+B.TECH. Artificial Intelligence and Data Science
 Saveetha Engineering College
